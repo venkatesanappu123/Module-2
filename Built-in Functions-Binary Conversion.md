@@ -20,3 +20,5 @@ print(b)
 ![image](https://github.com/user-attachments/assets/6e73465b-83b0-4e20-a6d6-f0ef3b88482d)
 
 ## Result
+Thus the program to convert the number 16 into its binary representation using built-in Python functions is executed successfully.
+
